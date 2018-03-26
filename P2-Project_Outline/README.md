@@ -7,11 +7,14 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+my project is aimed to help teens make extra money and to help parents bond with their children. its a website that lets people near you post jobs for you to do such as help move stuff, cut grass, trim hedges, gardening and more   
 ### Features
-Include Features here
+User Login
+Search
+post Job 
+User Profile
+upload photo
 ### Technologies
-Include Technologies here
-
+c#, asp.net, razor templates, javascript
 ### What I'll Have to Learn
-Include what you will need to learn here
+I'll need to learn how to send photos to the database, and javascript 
