@@ -7,9 +7,9 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-[Wireframe] (https://drive.google.com/open?id=1RtQVPgM6wDYcOeipE6SJgM5dtCyZRNaU)
-[Wireframe] (https://drive.google.com/open?id=1yYebIwF4RYqx7iOScezZzDJHhQAUWMDm)
-[Wireframe] (https://drive.google.com/open?id=1H3TSQ1s1H2ijgEFvvjp17Oe8a0khg4P1)
+* [Wireframe] (https://drive.google.com/open?id=1RtQVPgM6wDYcOeipE6SJgM5dtCyZRNaU)
+* [Wireframe] (https://drive.google.com/open?id=1yYebIwF4RYqx7iOScezZzDJHhQAUWMDm)
+* [Wireframe] (https://drive.google.com/open?id=1H3TSQ1s1H2ijgEFvvjp17Oe8a0khg4P1)
 
 
 
